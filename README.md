@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/trackerxxx23-dev-memory-mcp-badge.png)](https://mseep.ai/app/trackerxxx23-dev-memory-mcp)
+
 # Dev Memory Server
 
 ## Overview
